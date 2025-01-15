@@ -34,8 +34,8 @@ A utility package available on npm as `zexson_toolkit`. This toolkit provides va
 | Category    | Technologies & Skills |
 |-------------|---------------------|
 | Languages   | TypeScript (45%), JavaScript (35%), PHP (20%) |
-| Frameworks  | Express.js (100%), NestJS (80%), Laravel (40%), Lynx (Custom) |
-| Security    | OWASP Standards, Auth Implementation, Data Encryption |
+| Frameworks  | Express.js (100%), NestJS (80%), Laravel (40%), Lynx (My php framework) |
+| Security    | OWASP Guidelines for Secure Back-End Development, Auth Implementation, Data Encryption |
 | Quality     | Clean Code, Design Patterns, Test Coverage |
 
 ## 🌐 Connect with Me
