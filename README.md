@@ -24,18 +24,25 @@ A TypeScript-based project that allows you to combine and organize multiple API 
 ### Zexson Toolkit
 A utility package available on npm as `zexson_toolkit`. This toolkit provides various developer utilities and helpers. Check out the source code on my GitHub repositories!
 
-## 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SignorMassimo&show_icons=true&theme=radical" alt="GitHub Stats" />
-</div>
+## 📊 GitHub Stats & Skills
 
+graph LR
+    A[Frameworks] --> B[Express.js 100%]
+    A --> C[NestJS 80%]
+    A --> D[Laravel 40%]
+    A --> E[Lynx Custom]
+    
+    style B fill:#2ea44f,stroke:#fff,stroke-width:2px
+    style C fill:#E0234E,stroke:#fff,stroke-width:2px
+    style D fill:#FF2D20,stroke:#fff,stroke-width:2px
+    style E fill:#8A2BE2,stroke:#fff,stroke-width:2px
 ### 🔍 Expertise Breakdown
 
 | Category    | Technologies & Skills |
 |-------------|---------------------|
 | Languages   | TypeScript (45%), JavaScript (35%), PHP (20%) |
 | Frameworks  | Express.js (100%), NestJS (80%), Laravel (40%), Lynx (Custom) |
-| Security    | OWASP Standards, Auth Implementation, Data Encryption |
+| Security    | Auth Implementation, Data Encryption, Special and Popular Security Tech |
 | Quality     | Clean Code, Design Patterns, Test Coverage |
 
 ## 🌐 Connect with Me
